@@ -11,14 +11,6 @@ Get a specific task by ID
 Update an existing task
 Delete a task
 
-
-Prerequisites:
-
-Python 3.x (https://www.python.org/downloads/)
-Flask (https://flask.palletsprojects.com/)
-Flask-SQLAlchemy (https://flask-sqlalchemy.palletsprojects.com/) (or a similar database library)
-
-
 Setup:
 
 Clone this repository.
