@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Buy Milk",
+        "description": "Buy milk from the grocery store",
+        "status": "in-progress",
+        "priority": "medium",
+        "id": 1
+    },
+    {
+        "title": "Workout",
+        "description": "Do your daily workout",
+        "status": "not-started",
+        "priority": "high",
+        "id": 2
+    },
+    {
+        "title": "Laundery",
+        "description": "Finish all your weekly laundery",
+        "status": "completed",
+        "priority": "low",
+        "id": 3
+    }
+]
